@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("Streamlit 민혁의든 레포지토리(저장소)에 streamlit_app.py 만들고 다음 내용 복붙해서 집어넣기
+st.title("Streamlit레포지토리(저장소)에 streamlit_app.py 만들고 다음 내용 복붙해서 집어넣기
 
 import streamlit as st
 import pandas as pd
